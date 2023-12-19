@@ -1,0 +1,18 @@
+- What is Data Science and Machine Learning: Extract patterns from an unknown source/set of data, especially Non-Obvious Pattern in Dataset.
+
+- Titanic Data-Set: https://gist.github.com/fyyying/4aa5b471860321d7b47fd881898162b7
+- Side-Task: Predict whether a person will survive or not in the Titanic.
+
+- Obvious Pattern in Dataset: Females and children were survived because they are rescue first generally.
+
+- Non-Obvious Pattern in Dataset: Men in 3rd seat usually survived (hidden pattern).
+
+- DIKW (Data, Information, Knowledge, Wisdom) Pyramid:
+
+__________________________________________________________________
+
+- Data Science is a collection of Database Systems, AI/Machine Learning Coding, and Math and Statistics.
+- It involves: Data Collection, Data Visualization, Analytics on data, Representation the patterns.
+
+* DIKW Pyramid:
+- Standard model of structural relationship between wisdom knowledge, information, and data.
