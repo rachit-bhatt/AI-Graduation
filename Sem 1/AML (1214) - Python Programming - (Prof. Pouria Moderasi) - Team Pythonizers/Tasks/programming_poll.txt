@@ -1,0 +1,9 @@
+It has q
+It is easy to learn.
+It uses scripting approach.
+It supports cross-platform programming and open source modules.
+It provides flexible to bridge between many other programming languages, such as IronPython for .NET and C# compatibility.
+It is easy to learn.
+It uses scripting approach.
+It supports cross-platform programming and open source modules.
+It provides flexible to bridge between many other programming languages, such as IronPython for .NET and C# compatibility.

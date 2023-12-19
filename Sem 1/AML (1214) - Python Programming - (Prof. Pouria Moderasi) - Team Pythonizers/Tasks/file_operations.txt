@@ -1,0 +1,3 @@
+In Python, you can do various things.
+In Python, you can create classes and objects.
+In Python, you can handle exceptions and errors.
